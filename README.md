@@ -17,8 +17,7 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
   - In multi-chat mode, a text area at the bottom allows users to write prompts that are automatically sent to both chatbots simultaneously.
 
 ### 2. Prompt Palette
-- Enriched with prompts from [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- Access a list of pre-configured prompts.
+- Enriched with prompts from [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts).
 - Select a prompt to insert it directly into the chatbot's input field (or into the shared text area in multi-chat mode).
 
 <img src="resources/prompt-palette.jpg" width="40%" style="margin-top: 1rem; height: auto; object-fit: contain;" alt="Prompt Palette">
