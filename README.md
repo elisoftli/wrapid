@@ -25,8 +25,8 @@
 - Supports full markdown formatting, allowing you to style your prompts with headings, lists, links, code snippets, and more.
 
 <div style="display: flex; margin-top: 1rem;">
-    <img src="resources/rich-text-area-multi-chat-mode.jpg" width="52%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Single Chat Mode">
-    <img src="resources/rich-text-area-single-chat-mode.jpg" width="35%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Multi Chat Mode">
+    <img src="resources/rich-text-area-single-chat-mode.jpg" width="40%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Multi Chat Mode">
+    <img src="resources/rich-text-area-multi-chat-mode.jpg" width="59%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Single Chat Mode">
 </div>
 
 ### 4. Dynamic Window Behavior
