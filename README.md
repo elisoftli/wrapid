@@ -38,7 +38,7 @@
 - Automatically focuses on the chatbot input field (or the shared text area in multi-chat mode) for a seamless workflow.
 
 ## Installation
-1. Download and install the latest release from the [Releases](https://github.com/yourusername/wrapid/releases) page.
+1. Download and install the latest release from the [Latest Release](https://github.com/elisoftli/wrapid/releases/latest) page.
 
 ## Keyboard Shortcuts
 1. Focus app - `Alt+Space`
