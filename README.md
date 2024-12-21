@@ -1,6 +1,7 @@
 # Wrapid - a rapid wrapper app for chat bots
 
-**Wrapid** is a powerful desktop application designed to enhance your interactions with AI chatbots. Whether you use one or multiple chatbots, Wrapid provides tools and features that boost productivity and convenience.
+**Wrapid** is a desktop application for users who want to enhance the experience of using their favorite chatbots.
+Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a rich text area (with Markdown support), and a global hotkey to easily bring up Wrapid and start typing.
 
 <div style="display: flex">
     <img src="resources/single-chat-mode.jpg" width="45%" style="height: auto; object-fit: contain;" alt="Single Chat Mode">
@@ -16,6 +17,7 @@
   - In multi-chat mode, a text area at the bottom allows users to write prompts that are automatically sent to both chatbots simultaneously.
 
 ### 2. Prompt Palette
+- Enriched with prompts from [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - Access a list of pre-configured prompts.
 - Select a prompt to insert it directly into the chatbot's input field (or into the shared text area in multi-chat mode).
 
