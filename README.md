@@ -3,8 +3,8 @@
 **Wrapid** is a powerful desktop application designed to enhance and streamline your interactions with AI chatbots. Whether you use one or multiple chatbots, Wrapid provides tools and features that boost productivity and convenience.
 
 <div style="display: flex">
-    <img src="resources/single-chat-mode.jpg" width="40%" style="height: auto; object-fit: contain;" alt="Single Chat Mode">
-    <img src="resources/multi-chat-mode.jpg" width="47%" style="height: auto; object-fit: contain;" alt="Multi Chat Mode">
+    <img src="resources/single-chat-mode.jpg" width="45%" style="height: auto; object-fit: contain;" alt="Single Chat Mode">
+    <img src="resources/multi-chat-mode.jpg" width="53%" style="height: auto; object-fit: contain;" alt="Multi Chat Mode">
 </div>
 
 
