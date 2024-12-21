@@ -3,8 +3,8 @@
 **Wrapid** is a powerful desktop application designed to enhance and streamline your interactions with AI chatbots. Whether you use one or multiple chatbots, Wrapid provides tools and features that boost productivity and convenience.
 
 <div style="display: flex">
-    <img src="resources/single-chat-mode.jpg" width="35%" style="height: auto; object-fit: contain;" alt="Single Chat Mode">
-    <img src="resources/multi-chat-mode.jpg" width="41%" style="height: auto; object-fit: contain;" alt="Multi Chat Mode">
+    <img src="resources/single-chat-mode.jpg" width="40%" style="height: auto; object-fit: contain;" alt="Single Chat Mode">
+    <img src="resources/multi-chat-mode.jpg" width="47%" style="height: auto; object-fit: contain;" alt="Multi Chat Mode">
 </div>
 
 
@@ -19,14 +19,14 @@
 - Access a list of pre-configured prompts.
 - Select a prompt to insert it directly into the chatbot's input field (or into the shared text area in multi-chat mode).
 
-<img src="resources/prompt-palette.jpg" width="35%" style="margin-top: 1rem; height: auto; object-fit: contain;" alt="Prompt Palette">
+<img src="resources/prompt-palette.jpg" width="40%" style="margin-top: 1rem; height: auto; object-fit: contain;" alt="Prompt Palette">
 
 ### 3. Rich Text Area
 - Supports full markdown formatting, allowing you to style your prompts with headings, lists, links, code snippets, and more.
 
 <div style="display: flex; margin-top: 1rem;">
-    <img src="resources/rich-text-area-multi-chat-mode.jpg" width="44%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Single Chat Mode">
-    <img src="resources/rich-text-area-single-chat-mode.jpg" width="30%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Multi Chat Mode">
+    <img src="resources/rich-text-area-multi-chat-mode.jpg" width="52%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Single Chat Mode">
+    <img src="resources/rich-text-area-single-chat-mode.jpg" width="35%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Multi Chat Mode">
 </div>
 
 ### 4. Dynamic Window Behavior
