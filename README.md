@@ -35,8 +35,8 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
 - **Sticky Mode**: Anchor the app to the bottom-left, bottom-center, or bottom-right of your screen with predefined size options.
 
 ### 5. Configurable Global Hotkey
-- Set a global hotkey to instantly open the app window.
-- Automatically focuses on the chatbot input field (or the shared text area in multi-chat mode) for a seamless workflow.
+- Instantly bring up Wrapid and focus on the chatbot input field (or the rich text area in multi-chat-mode).
+- Hotkey is configurable.
 
 ## Installation
 1. Download and install the latest release from the [Latest Release](https://github.com/elisoftli/wrapid/releases/latest) page.
