@@ -30,7 +30,7 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
     <img src="resources/rich-text-area-multi-chat-mode.jpg" width="59%" style="height: auto; object-fit: contain;" alt="Rich Text Area in Single Chat Mode">
 </div>
 
-### 4. Dynamic Window Behavior
+### 4. Multiple Window Behaviors
 - **Floating Mode**: Freely control the window's size and position on your screen.
 - **Sticky Mode**: Anchor the app to the bottom-left, bottom-center, or bottom-right of your screen with predefined size options.
 
