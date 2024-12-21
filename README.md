@@ -34,7 +34,7 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
 - **Floating Mode**: Freely control the window's size and position on your screen.
 - **Sticky Mode**: Anchor the app to the bottom-left, bottom-center, or bottom-right of your screen with predefined size options.
 
-### 5. Configurable Global Hotkey
+### 5. Global Hotkey
 - Instantly bring up Wrapid and focus on the chatbot input field (or the rich text area in multi-chat-mode).
 - Hotkey is configurable.
 
