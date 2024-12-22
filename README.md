@@ -1,4 +1,4 @@
-# Wrapid - a rapid wrapper app for chat bots
+# Wrapid - a rapid wrapper app for chatbots
 
 **Wrapid** is a desktop application for users who want to enhance the experience of using their favorite chatbots.
 Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a rich text area (with Markdown support), and a global hotkey to easily bring up Wrapid and start typing.
