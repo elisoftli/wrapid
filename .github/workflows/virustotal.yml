@@ -3,6 +3,7 @@ name: Scan with VirusTotal
 on:
   release:
     types: [published, edited]
+  workflow_dispatch:
 
 jobs:
   virustotal:
