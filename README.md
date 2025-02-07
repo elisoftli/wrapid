@@ -12,7 +12,7 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
 ## Features
 
 ### 1. Flexible Chatbot Selection
-- **Single Chat Mode**: Select one AI chatbot (e.g., Gemini, ChatGPT, Claude, Google AI Studio, or Groq) and interact with it directly in the app.
+- **Single Chat Mode**: Select one AI chatbot (e.g., Gemini, ChatGPT, Claude, DeepSeek, Google AI Studio, Grok, or Groq) and interact with it directly in the app.
 - **Multi-Chat Mode**: Choose two chatbots to use at the same time. The app displays both chatbots side by side.
   - In multi-chat mode, a text area at the bottom allows users to write prompts that are automatically sent to both chatbots simultaneously.
 
