@@ -57,10 +57,11 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
 2. Open Prompt Palette - `Ctrl+P`
 3. Reload chats - `Ctrl+R`
 4. Send prompt in rich text area - `Ctrl+Enter`
-5. Restore last sent prompt into rich text area - `Ctrl+Shift+Z`
-6. Open "Chatbots Selection" dialog - `Ctrl+Shift+C`
-7. Change window size in `sticky` mode - `Ctrl+1`/`Ctrl+2`/`Ctrl+3`/`Ctrl+4`
-8. Change window position in `sticky` mode - `Ctrl+Alt+Left`/`Ctrl+Alt+Right`
+5. Send prompt to a specific chatbot (**Multi-Chat mode**) - `Ctrl+Shift+1` / `Ctrl+Shift+2` / `Ctrl+Shift+3`
+6. Restore last sent prompt into rich text area - `Ctrl+Shift+Z`
+7. Open "Chatbots Selection" dialog - `Ctrl+Shift+C`
+8. Change window size in `sticky` mode - `Ctrl+1`/`Ctrl+2`/`Ctrl+3`/`Ctrl+4`
+9. Change window position in `sticky` mode - `Ctrl+Alt+Left`/`Ctrl+Alt+Right`
 
 ## Support
 If you encounter any issues or have feature requests, please feel free to open an issue and I'll try to tackle it as soon as possible.
