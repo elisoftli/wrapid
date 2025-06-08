@@ -41,6 +41,17 @@ Wrapid provides a single / multi-chat mode (side by side), a prompt palette, a r
 ## Installation
 1. Download and install the latest release from the [Latest Release](https://github.com/elisoftli/wrapid/releases/latest) page.
 
+## Multi-Chat Mode Feature Compatibility
+| Chatbot           | Text Sync | Scroll Sync | File Upload |
+|-------------------|-----------|-------------|------------------|
+| Gemini            | ✅        | ✅          | ✅               |
+| ChatGPT           | ✅        | ✅          | ✅               |
+| Claude            | ✅        | ✅          | ✅               |
+| Grok              | ✅        | ❌          | ✅               |
+| DeepSeek          | ✅        | ❌          | ❌               |
+| Groq              | ✅        | ❌          | ❌               |
+| Google AI Studio  | ✅        | ❌          | ❌               |
+
 ## Keyboard Shortcuts
 1. Focus app - `Alt+Space`
 2. Open Prompt Palette - `Ctrl+P`
